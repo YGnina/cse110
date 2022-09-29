@@ -1,6 +1,6 @@
 # Hello, CSE 110
 
-**I'm a strudent majoring CS.**
+**My name is Nina, and I'm a strudent majoring CS.**
 
 **At my spare time, I like to go hiking and watch anime.**
 
