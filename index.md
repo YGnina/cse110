@@ -34,7 +34,7 @@ Hello World
 ```
 
 [MY USER PAGE](https://github.com/YGnina/cse110/blob/add-read-me/README.md)
-## [Remember to check README.md from other branch](https://github.com/YGnina/cse110/blob/main/README.md)
+## [Remember to check README.md](https://github.com/YGnina/cse110/blob/add-read-me/README.md)
 
 
 
