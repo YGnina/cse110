@@ -3,6 +3,8 @@ Yining Gu's User Page
 
 This is for the Lab Week 0 & 1 - VSCode, Markdown, and Git Part 1 
 
+My published site: https://ygnina.github.io/cse110/
+
 
 ## Command Line
 
