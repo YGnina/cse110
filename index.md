@@ -28,7 +28,7 @@ To name a few:
 3. C++
 4. Python
 
-As everyone did, my first coding program is HelloWorld.java:
+As many people did, my first coding program is HelloWorld.java:
 ```
 System.out.println("Hello, World");
 ```
