@@ -28,9 +28,9 @@ To name a few:
 3. C++
 4. Python
 
-As everyone did, my first coding program is
+As everyone did, my first coding program is HelloWorld.java:
 ```
-Hello World
+System.out.println("Hello, World");
 ```
 I'm trying to do one leetcode question every day, you can visit my [Leecode repositry](https://github.com/YGnina/leetcode)
 
