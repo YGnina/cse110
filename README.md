@@ -1,7 +1,7 @@
 # cse 110
 Yining Gu's User Page
 
-My published site: https://ygnina.github.io/cse110/
+My published site: https://ygnina.github.io/fa22-cse110-lab0-1/
 
 This is for the Lab Week 0 & 1 - VSCode, Markdown, and Git Part 1 
 
